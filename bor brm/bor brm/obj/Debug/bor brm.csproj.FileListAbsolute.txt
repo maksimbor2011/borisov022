@@ -1,0 +1,19 @@
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\bor brm.exe.config
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\bor brm.exe
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\bor brm.pdb
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\Devart.Data.MySql.dll
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\Devart.Data.dll
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\System.Memory.dll
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mbori\source\repos\bor brm\bor brm\bin\Debug\System.Buffers.dll
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor brm.csproj.AssemblyReference.cache
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor brm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor_brm.Form1.resources
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor_brm.Properties.Resources.resources
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor brm.csproj.GenerateResource.cache
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor brm.csproj.CoreCompileInputs.cache
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor brm.csproj.CopyComplete
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor brm.exe
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor brm.pdb
+C:\Users\mbori\source\repos\bor brm\bor brm\obj\Debug\bor_brm.AddForm.resources
